@@ -8,6 +8,8 @@ public class Spring5app2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Spring5app2Application.class, args);
+		
+		
 	}
 
 }
